@@ -182,14 +182,23 @@
               "icon": "lucide-list",
               "title": "Outline of Rust"
             }
+          },
+          {
+            "id": "3b7349bab46f5ce0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +210,11 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "copilot:Open Copilot Chat": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "782596d925800072",
+  "active": "49255bb3d6f67f89",
   "lastOpenFiles": [
     "Movies.md",
     "Programming/Languages/Rust.md",
