@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Concepts/How browsers work.md",
+                "file": "Programming/Tools/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How browsers work"
+              "title": "Git"
             }
           }
         ]
@@ -214,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49255bb3d6f67f89",
+  "active": "782596d925800072",
   "lastOpenFiles": [
+    "Programming/Concepts/How browsers work.md",
     "Movies.md",
     "Programming/Languages/Rust.md",
-    "Programming/Concepts/How browsers work.md",
     "Programming/Tools/Git.md",
     "Programming/Languages/HTML.md",
     "Programming/Languages/CSS.md",
